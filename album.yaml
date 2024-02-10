@@ -6,22 +6,22 @@ art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
 include:
   - C major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C_maj.mp3
   - C minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C_min.mp3
-  - C# major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C#_maj.mp3
-  - C# minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C#_min.mp3
+  - 'C# major': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C#_maj.mp3
+  - 'C# minor': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/C#_min.mp3
   - D major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/D_maj.mp3
   - D minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/D_min.mp3
   - Eb major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/Eb_maj.mp3
-  - D# minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/D#_min.mp3
+  - 'D# minor': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/D#_min.mp3
   - E major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/E_maj.mp3
   - E minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/E_min.mp3
   - F major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F_maj.mp3
   - F minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F_min.mp3
-  - F# major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F#_maj.mp3
-  - F# minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F#_min.mp3
+  - 'F# major': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F#_maj.mp3
+  - 'F# minor': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/F#_min.mp3
   - G major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/G_maj.mp3
   - G minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/G_min.mp3
   - Ab major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/Ab_maj.mp3
-  - G# minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/G#_min.mp3
+  - 'G# minor': https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/G#_min.mp3
   - A major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/A_maj.mp3
   - A minor: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/A_min.mp3
   - Bb major: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier-2/main/Bb_maj.mp3
